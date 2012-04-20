@@ -39,3 +39,8 @@ C:\Users\kaliadm\Desktop\Xboxer-LazyPatch-659c80f\WUA_Client\WUA_Client\obj\x86\
 C:\Users\kaliadm\Desktop\Xboxer-LazyPatch-659c80f\WUA_Client\WUA_Client\obj\x86\Release\ResGen.read.1.tlog
 C:\Users\kaliadm\Desktop\Xboxer-LazyPatch-659c80f\WUA_Client\WUA_Client\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
 C:\Users\kaliadm\Desktop\Xboxer-LazyPatch-659c80f\WUA_Client\WUA_Client\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\Interop.WUApiLib.dll
+C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.vbproj.ResolveComReference.cache
+C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.exe
+C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.xml
+C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.pdb
