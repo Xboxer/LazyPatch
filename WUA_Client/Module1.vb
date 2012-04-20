@@ -70,7 +70,7 @@ Module Module1
             progresstbd = downloadprogress.TotalBytesDownloaded
             progresstbd1 = Math.Round(progresstbd / 1024 / 1024)
             Console.WriteLine("###################################################################")
-            Console.WriteLine("Progress: " & progress & "%")
+            Console.WriteLine("Fortschritt: " & progress & "%")
             Console.WriteLine("Downloaded: " & progresstbd1 & " MB")
         End While
         download.EndDownload(downloadjob)
@@ -79,13 +79,13 @@ Module Module1
         For a = Updates.Count - 1 To 0 Step -1
             patch = Updates.Item(a)
             If patch.IsDownloaded = False Then
-                Console.WriteLine("Failed to download: " & patch.Title)
+                Console.WriteLine("Download fehlgeschlagen: " & patch.Title)
                 Updates.RemoveAt(a)
             End If
         Next
 
         'Ausgabe über Fertige Updatedownloads
-        Console.WriteLine("Patches Downloaded and Available to Install:")
+        Console.WriteLine("Updates heruntergeladen und bereit zum Installieren:")
         For a = 0 To Updates.Count - 1
             patch = Updates.Item(a)
             Console.WriteLine(a + 1 & ": " & patch.Title)
