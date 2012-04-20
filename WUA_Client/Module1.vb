@@ -101,7 +101,7 @@ Module Module1
             Console.WriteLine("###################################################################")
             Console.WriteLine("Installiere Update " & installprogress.CurrentUpdateIndex + 1 & " von " & Updates.Count)
             Console.WriteLine("Aktuelles Update: " & installprogress.CurrentUpdatePercentComplete & "%")
-            Console.WriteLine("Gesamtprogress : " & installprogress.PercentComplete & "%")
+            Console.WriteLine("Gesamtfortschritt : " & installprogress.PercentComplete & "%")
         End While
 
         Installer.EndInstall(Installerjob)
