@@ -54,3 +54,8 @@ C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\GenerateResource
 C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\ResGen.read.1.tlog
 C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
 C:\Users\kaliadm\Documents\LazyPatch\WUA_Client\obj\x86\Release\ResGen.write.1.tlog
+P:\Users\christoph\Documents\LazyPatch\WUA_Client\obj\x86\Release\Interop.WUApiLib.dll
+P:\Users\christoph\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.vbproj.ResolveComReference.cache
+P:\Users\christoph\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.exe
+P:\Users\christoph\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.xml
+P:\Users\christoph\Documents\LazyPatch\WUA_Client\obj\x86\Release\WUA_Client.pdb
